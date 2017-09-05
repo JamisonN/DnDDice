@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\osciandra\desktop\finished projects\d&d dice\project4\foursidedice.h(12): error C3861: 'Selector': identifier not found
+c:\users\osciandra\desktop\finished projects\d&d dice\project4\selector.h(13): error C3861: 'time': identifier not found

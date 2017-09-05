@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\osciandra\documents\visual studio 2017\projects\project4\project4\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project4.vcxproj -> C:\Users\Osciandra\documents\visual studio 2017\Projects\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\Osciandra\documents\visual studio 2017\Projects\Project4\Debug\Project4.pdb (Partial PDB)
